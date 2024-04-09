@@ -1,4 +1,22 @@
+0.test.php
+
 <?php 
 phpinfo();
 ?>
 運行的基礎格式
+
+
+1.html.php
+
+<html>
+    <head><title>html+php</title></head>      
+    <body>
+        <?php echo "Hello world!"; ?> 
+        <h1>html</h1>
+        <?php echo "Hello world!"; ?> 
+        <h1>html</h1>
+        <?php echo "Hello world!"; ?> 
+    </body>
+</html>
+分段的運用
+
